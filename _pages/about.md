@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-### 
-
 I'm a Ph.D. researcher in Information Technology at the University of Nebraska–Omaha. My research spans:
 
 - Machine Learning & Deep Learning  
