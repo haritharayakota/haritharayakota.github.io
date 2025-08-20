@@ -9,19 +9,10 @@ author_profile: true
 {% include base_path %}
 
 
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+### Ecloud Labs — Software Developer (Apr 2013 – Sept 2014)
+- Developed Android applications and web-based solutions using HTML, CSS, and JavaScript
+- Troubleshot production issues and fixed application bugs
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### Fraunhofer CSE — Technical Intern (Sept 2012 – Mar 2013)
+- Designed an Android application for energy-efficient home automation and thermostat control
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
