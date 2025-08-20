@@ -5,8 +5,6 @@ title: "Teaching Experience"
 author_profile: true
 ---
 
-# Teaching Experience
-
 ## University of Nebraska–Omaha
 
 - **Introduction to CS I (Python)**  

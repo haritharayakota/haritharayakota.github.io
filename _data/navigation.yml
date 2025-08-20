@@ -17,6 +17,12 @@ main:
 
   - title: "Education"
     url: /education/
+
+  - title: "Research"
+    url: /research/
+
+  - title: "Experience"
+    url: /workexperience/
     
   - title: "Service"
-    url: /cv/
+    url: /service/
