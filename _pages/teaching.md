@@ -1,8 +1,10 @@
 ---
-layout: archive
+permalink: /
 title: "Teaching Experience"
-permalink: /teaching/
 author_profile: true
+redirect_from: 
+  - /teaching/
+  - /teaching.html
 ---
 
 University of Nebraska–Omaha
@@ -16,4 +18,3 @@ University of Nebraska–Omaha
 Oklahoma State University
 ======
 *Automatic Control Systems* — Teaching Assistant (Spring 2011, Spring 2012)
-
