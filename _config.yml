@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Haritha"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Haritha Prasad Rayakota"
-description              : &description "personal description"
+description              : &description "PhD Candidate in Information Technology"
 url                      : https://haritharayakota.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "haritharayakota/haritharayakota.github.io"
@@ -32,7 +32,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=_nGch8IAAAAJ&hl=en"
 
 
 
@@ -186,17 +186,7 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+
   # _pages
   - scope:
       path: ""
