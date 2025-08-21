@@ -15,7 +15,4 @@ author_profile: true
 
 4. Lim, B. Y., Roth, K., Nambiar, S., & **Rayakota, H.** (2014). Rapid Prototyping of Energy Management Applications with FRESH. [Paper (PDF)](https://energytaxincentives.org/files/proceedings/2014/data/papers/11-763.pdf).
 
-### Under Review Publications
-
-1. **Rayakota, H. P.**, & Huang, P. C. ViT-TinyLlama: A Lightweight Vision-Language Model for Explainable Autonomous Driving.*IEEE ICMLA 2025* (Submitted).
 
