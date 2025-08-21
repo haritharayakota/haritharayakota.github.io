@@ -24,14 +24,15 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Haritha Prasad Rayakota"
-  location         : "Omaha"
+  bio		   : "PhD Candidate in Information Technology"
+
+  location         : "Omaha, NE"
   employer         : "University of Nebraska Omaha"
   uri              : # URL
   email            : "hrayakota@unomaha.edu" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+
   googlescholar    : "https://scholar.google.com/citations?user=_nGch8IAAAAJ&hl=en"
 
 
