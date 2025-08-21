@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Selected Publications
+### Selected Conference Publications
 
 1. **ViT-TinyLlama: A Lightweight Vision-Language Model for Explainable Autonomous Driving**. Rayakota, H. P., & Huang, P. C. *IEEE ICMLA 2025* (Submitted).
 2. **Improving CLIP for Biomedical Retrieval: A Multi-Margin Contrastive Loss Approach**. Shakya, E., Rayakota, H. P., & Huang, P. C. *2024 IEEE International Conference on Big Data (BigData)*, pp. 1104–1113, 2024.
