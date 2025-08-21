@@ -7,11 +7,11 @@ author_profile: true
 
 ### Selected Conference Publications
 
-1. **Rayakota, H. P.**, & Huang, P. C. *IEEE ICMLA 2025* (Submitted).ViT-TinyLlama: A Lightweight Vision-Language Model for Explainable Autonomous Driving.
+1. **Rayakota, H. P.**, & Huang, P. C. ViT-TinyLlama: A Lightweight Vision-Language Model for Explainable Autonomous Driving.*IEEE ICMLA 2025* (Submitted).
 
-2. Shakya, E., **Rayakota, H. P.**, & Huang, P. C. *2024 IEEE International Conference on Big Data (BigData)*, pp. 1104–1113, 2024. Improving CLIP for Biomedical Retrieval: A Multi-Margin Contrastive Loss Approach.
+2. Shakya, E., **Rayakota, H. P.**, & Huang, P. C. Improving CLIP for Biomedical Retrieval: A Multi-Margin Contrastive Loss Approach. *2024 IEEE International Conference on Big Data (BigData)*, pp. 1104–1113, 2024. 
 
-3. **Rayakota, H. P.**, & Huang, P. C. *2024 IEEE 7th International Conference on Industrial Cyber-Physical Systems (ICPS)*, 2024. HybridTE 2: Hybrid Transformer-based End-to-End Learning for Autonomous Driving.
+3. **Rayakota, H. P.**, & Huang, P. C. HybridTE 2: Hybrid Transformer-based End-to-End Learning for Autonomous Driving.*2024 IEEE 7th International Conference on Industrial Cyber-Physical Systems (ICPS)*, 2024.
 
 4. **Master’s Thesis:** *End-To-End Framework for F1/10 Auto-Car in a Simulated Environment*.
 
