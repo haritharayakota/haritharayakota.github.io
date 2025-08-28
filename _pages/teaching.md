@@ -20,6 +20,8 @@ author_profile: true
 - **Introduction to JAVA II**  
   *Teaching Assistant – Fall 2019, Fall 2020–Fall 2021*
 
+-- **Operating Systems**  
+  *Teaching Assistant – Spring 2020*
 ---
 
 ## Oklahoma State University
