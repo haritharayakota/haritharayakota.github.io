@@ -22,6 +22,7 @@ author_profile: true
 
 - **Operating Systems**  
   *Teaching Assistant – Spring 2020*
+
 ---
 
 ## Oklahoma State University
